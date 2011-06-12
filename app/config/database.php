@@ -78,8 +78,8 @@ class DATABASE_CONFIG {
 		'persistent' => false,
 		'host' => 'localhost',
 		'login' => 'user',
-		'password' => 'password',
-		'database' => 'database_name',
+		'password' => 'user',
+		'database' => 'nats_cakes',
 		'prefix' => '',
 	);
 
@@ -88,8 +88,8 @@ class DATABASE_CONFIG {
 		'persistent' => false,
 		'host' => 'localhost',
 		'login' => 'user',
-		'password' => 'password',
-		'database' => 'test_database_name',
+		'password' => 'user',
+		'database' => 'test_nats_cakes',
 		'prefix' => '',
 	);
 }
